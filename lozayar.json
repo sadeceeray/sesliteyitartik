@@ -1,0 +1,13 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": ["820357618300092478"],
+        "ACTIVITY_TEXT": "Rüpiter",
+        "GUILD_ID": "820357520919887943",
+        "VOICE_CHANNEL": "820357520919887947",
+        "MIN_STAFF_ROLE": "820357618300092478"
+    },
+    "FILES": {
+        "WELCOME": "ses/hosgeldin.mp3",
+        "STAFF": "ses/yetkili.mp3"
+    }
+} 
